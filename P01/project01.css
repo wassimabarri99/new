@@ -1,0 +1,59 @@
+body {
+  font-family: Helvetica;
+
+}
+
+.img1 {
+  width: 100%;
+  height: 130px;
+  object-fit: cover;
+  object-position: top;
+}
+
+.p1 {
+  position: absolute;
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  top: -90px;
+  left: 75px;
+  
+}
+
+.container {
+  position: relative;
+  text-align:start;
+  margin-top: 70px;
+}
+
+.nav-bar {
+  width: 100%;
+  background-color: mediumspringgreen;
+  margin-top: 70px;
+  margin-bottom: 32px;
+}
+
+.nav-bar2 {
+  width: 100%;
+  background-color: lightcoral;
+  margin-bottom: 32px;
+}
+
+.p2 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+.span1, .span2, .span3 {
+  font-weight: bold;
+  color: blue
+}
+
+.nav-bar3 {
+  width: 100%;
+  background-color: skyblue;
+  margin-bottom: 32px;
+}
